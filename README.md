@@ -2,9 +2,10 @@
 
 ---
 title: "Capstone 2020"
+---
 author: "Kenneth De Jesus"
+---
 date: "April 24, 2020"
-output: html_document
 ---
   
   2020 Capstone Assignment:
